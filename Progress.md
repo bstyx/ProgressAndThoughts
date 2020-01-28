@@ -8,6 +8,10 @@
 
 ## Starting a new Project, making a website for a Marina in React with Next.js
 
-26.01.2020
+27.01.2020
 
 ## Played around with Next.js having trouble applying styleing on each Route...
+
+28.01.2020
+
+## Did more React today and tryed to style stuff :)
