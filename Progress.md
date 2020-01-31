@@ -15,3 +15,7 @@
 28.01.2020
 
 ## Did more React today and tryed to style stuff :)
+
+29.01.2020 - 31.02.2020
+
+## Did not much, just refreshed some basic react etc hope to do more on the weekend now :)
