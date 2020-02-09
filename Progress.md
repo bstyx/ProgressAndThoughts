@@ -23,3 +23,7 @@
 01.02.2020
 
 ## Learned about React Router today. How to build a Nav with it and started to learn about state too :)
+
+09.02.2020
+
+## I got back to freecodecamp and started doing some challenges, kinda demotivated the last few days I hope I can overcome it.
