@@ -27,3 +27,7 @@
 09.02.2020
 
 ## I got back to freecodecamp and started doing some challenges, kinda demotivated the last few days I hope I can overcome it.
+
+29.02.2020
+
+## Havent posted for a long time, atm taking on the freecodecamp stuff, finished the flex box part as refreshment and im half way through the grid section.
